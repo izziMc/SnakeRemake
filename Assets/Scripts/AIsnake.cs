@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AI-snake : MonoBehaviour
+public class AIsnake : MonoBehaviour
 {
     void Start()
     {
